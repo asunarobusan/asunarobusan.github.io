@@ -1,0 +1,9 @@
+{
+  "short_name": "아수나로 후원 페이지",
+  "name": "아수나로 더 굳건하게, 더 단단하게 존재하기",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
